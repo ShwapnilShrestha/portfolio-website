@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shwapnilshrestha.com.np/sitemap.xml
